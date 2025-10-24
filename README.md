@@ -83,7 +83,7 @@ body{font-family:"Cairo",sans-serif;margin:0;padding:20px;min-height:100vh;backg
 
 <script>
 const books=[
-{title:"الخيميائي — باولو كويلو",category:"novels",pdf:"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",cover:"https://via.placeholder.com/400x600?text=الخيميائي"},
+{title:"الاب الفقير و الاب الغني كويلو",category:"novels",pdf:"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",cover:"https://via.placeholder.com/400x600?text=الاب الفقير والاب الغني"},
 {title:"الكون — كارل ساغان",category:"science",pdf:"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",cover:"https://via.placeholder.com/400x600?text=الكون"},
 {title:"العرب قبل الإسلام — جواد علي",category:"history",pdf:"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",cover:"https://via.placeholder.com/400x600?text=العرب+قبل+الإسلام"},
 {title:"تعليم البرمجة",category:"science",pdf:"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",cover:"https://via.placeholder.com/400x600?text=برمجة"},
